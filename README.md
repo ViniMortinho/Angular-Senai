@@ -31,17 +31,20 @@ Se você precisar instalar uma versão específica do Angular CLI, adicione a ve
 `@angular/cli`, 
 por exemplo:
 `npm install -g @angular/cli@xx.x.x`.
-
-Para verificar se o Angular CLI foi instalado corretamente, execute o comando `ng version`.
+Para verificar se o Angular CLI foi instalado corretamente, execute o comando 
+`ng version`.
 
 ## Criar um novo projeto Angular
 
 Para criar um novo projeto Angular, 
-abra o terminal na pasta onde deseja criar o projeto e execute o comando `ng new nome-projeto`. 
+abra o terminal na pasta onde deseja criar o projeto e execute o comando 
+`ng new nome-projeto`. 
 Isso criará uma nova pasta com o nome especificado e gerará a estrutura básica do projeto Angular.
 
-Para verificar as pastas criadas, execute o comando `dir`. Para acessar a pasta do projeto, use o comando `cd nome-projeto`.
-
+Para verificar as pastas criadas, execute o comando 
+`dir`.
+Para acessar a pasta do projeto, use o comando 
+`cd nome-projeto`.
 Se você usa o Visual Studio Code como editor de código, 
 pode abrir a pasta do projeto diretamente no editor executando o comando `code .` na pasta do projeto.
 
