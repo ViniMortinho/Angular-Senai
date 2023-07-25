@@ -14,12 +14,10 @@
 Este projeto foi gerado com Angular CLI versão 16.1.5.
 
 ## Pré-requisitos
-
 Antes de começar, 
 certifique-se de ter instalado o Node.js e o Angular CLI globalmente em seu sistema.
 
 ### Verificar a versão do gerenciador de pacotes e do Node.js
-
 Para verificar a versão do gerenciador de pacotes npm, abra o terminal e execute o comando 
 `npm -v`. A versão atual é 9.6.7.
 
@@ -27,10 +25,12 @@ Para verificar a versão do Node.js, execute o comando
 `node -v` no terminal. A versão atual é 18.17.0.
 
 ### Instalação do Angular CLI
-
-Para instalar o Angular CLI globalmente, execute o comando `npm install -g @angular/cli`. 
-Se você precisar instalar uma versão específica do Angular CLI, adicione a versão após o `@angular/cli`, 
-por exemplo: `npm install -g @angular/cli@xx.x.x`.
+Para instalar o Angular CLI globalmente, execute o comando 
+`npm install -g @angular/cli`. 
+Se você precisar instalar uma versão específica do Angular CLI, adicione a versão após o 
+`@angular/cli`, 
+por exemplo:
+`npm install -g @angular/cli@xx.x.x`.
 
 Para verificar se o Angular CLI foi instalado corretamente, execute o comando `ng version`.
 
