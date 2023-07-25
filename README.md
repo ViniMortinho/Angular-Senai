@@ -18,7 +18,8 @@ Antes de começar,
 certifique-se de ter instalado o Node.js e o Angular CLI globalmente em seu sistema.
 
 ### Verificar a versão do gerenciador de pacotes e do Node.js
-Para verificar a versão do gerenciador de pacotes npm, abra o terminal e execute o comando 
+Para verificar a versão do gerenciador de pacotes npm, 
+abra o terminal e execute o comando 
 `npm -v`. A versão atual é 9.6.7.
 
 Para verificar a versão do Node.js, execute o comando 
