@@ -1,5 +1,6 @@
 # Angular Senai
-
+**Este é um guia básico para começar a usar o Angular CLI, que é uma ferramenta de linha de comando oficial do Angular para automatizar tarefas comuns durante o desenvolvimento. O guia aborda desde os pré-requisitos de instalação do Node.js e do Angular CLI até a criação de um novo projeto Angular, geração de código, construção e execução de testes unitários e de ponta a ponta.**
+##
 - Pré-requisitos
   - Verificar a versão do gerenciador de pacotes e do Node.js
   - Instalação do Angular CLI
