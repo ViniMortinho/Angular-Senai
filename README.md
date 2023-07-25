@@ -29,7 +29,8 @@ Para verificar a versão do Node.js, execute o comando
 ### Instalação do Angular CLI
 Para instalar o Angular CLI globalmente, execute o comando 
 `npm install -g @angular/cli`. 
-Se você precisar instalar uma versão específica do Angular CLI, adicione a versão após o 
+Se você precisar instalar uma versão específica do Angular CLI, 
+adicione a versão após o 
 `@angular/cli`, 
 por exemplo:
 `npm install -g @angular/cli@xx.x.x`.
